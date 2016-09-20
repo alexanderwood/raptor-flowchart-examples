@@ -1,0 +1,2 @@
+Create a flowchart which asks the user for the area of a circle, computes the area, then displays the area.
+Recall that if the radius of a circle is r, then the area is given by A = (3.14) * r * r

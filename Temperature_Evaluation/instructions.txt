@@ -1,0 +1,6 @@
+Create a flowchart which asks the user for the temperature.
+If the temperature is greater than or equal to 85, print "It's hot!"
+If the temperature is less than 85 but greater than or equal to 60, print "It's very nice out."
+If the temperature is below 60 but above or equal to 50, print "It's chilly, wear a light jacket."
+Otherwise, print "It's cold."
+Use nested decision structures to model this flowchart.

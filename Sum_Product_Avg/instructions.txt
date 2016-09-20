@@ -1,0 +1,1 @@
+Create a flowchart which computes the sum, average, and product of two number then prints their values.
